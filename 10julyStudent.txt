@@ -1,0 +1,7 @@
+Hello! Welcome to 10julyStudent.txt
+This file is for testing purposes.
+Good Luck!
+Alisha
+Zarmeen 
+Samra
+Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!

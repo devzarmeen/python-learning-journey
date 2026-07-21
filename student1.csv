@@ -1,0 +1,23 @@
+   Student_ID     Name   Age  Gender               Department  Semester  CGPA  \
+0         101   Tayyab  20.0    Male         Computer Science         4  3.45   
+1         102     Zari  21.0  Female     Software Engineering         5  3.80   
+2         103    Ahmed   NaN    Male         Computer Science         4  2.95   
+3         104  Ibrahim  22.0    Male             Data Science         6  3.65   
+4         105   Kainat  20.0  Female         Computer Science         4   NaN   
+5         106   Sajjad  21.0    Male     Software Engineering         5  3.90   
+6         107  Unknown  23.0    Male  Artificial Intelligence         7  2.80   
+7         108     DevX  20.0  Female         Computer Science         4  3.50   
+8         109      NaN  22.0  Female  Artificial Intelligence         6  3.10   
+9         110    Ahmed  21.0    Male     Software Engineering         5  3.20   
+
+         City  Attendance  Marks  
+0      Lahore        90.0   85.0  
+1     Karachi        95.0   91.0  
+2   Islamabad        88.0   76.0  
+3      Lahore         NaN   89.0  
+4  Faisalabad        82.0   72.0  
+5     Karachi        97.0    NaN  
+6      Multan        70.0    NaN  
+7      Lahore        91.0   87.0  
+8   Islamabad        85.0   80.0  
+9      Lahore        89.0   78.0  
