@@ -490,6 +490,18 @@ NumPy is a Python library for working with arrays. It is widely used in data sci
 * Sorting Arrays (`np.sort()`)
 * Filtering Arrays (Boolean Indexing, Manual Filtering, Even/Odd Filtering)
 
+### 📊 Python Data Science Libraries
+
+#### NumPy
+- Introduction to NumPy
+- Creating Arrays
+- Array Indexing & Slicing
+- Array Shape & Reshape
+- Array Operations
+- Mathematical Functions
+- Statistical Functions
+- Random Module
+
 ## Why NumPy?
 
 * Faster than Python lists for numerical computation
@@ -497,12 +509,69 @@ NumPy is a Python library for working with arrays. It is widely used in data sci
 * Essential for data science workflows
 * Supports linear algebra, matrices, and scientific computing
 
----
+#### Pandas
+- Introduction to Pandas
+- Series
+- DataFrame
+- Reading CSV Files
+- Writing CSV Files
+- Selecting Rows & Columns
+- Filtering Data
+- Handling Missing Values
+- Data Cleaning
+- Sorting & Grouping
+- Merge & Concatenate
+- Aggregation Functions
 
-# 🛠 Tools & Technologies (Extended)
+#### Matplotlib
+- Introduction to Matplotlib
+- Line Plot
+- Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Titles & Labels
+- Legends
+- Grid
+- Figure Customization
+- Saving Plots
 
-* NumPy
-* Anaconda / Spyder (pre-installed NumPy distributions)
-* `cowsay` (virtual environment demo package)
-* `camelcase` (PIP demo package)
+#### Seaborn
+- Introduction to Seaborn
+- Distribution Plot
+- Scatter Plot
+- Line Plot
+- Bar Plot
+- Count Plot
+- Box Plot
+- Violin Plot
+- Heatmap
+- Pair Plot
+- Styling & Themes
 
+# 🛠 Tools & Technologies
+
+- Python 3
+- Google Colab
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+
+### 📚 Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### 📦 Package Management
+- PIP
+- `camelcase` (PIP demo package)
+- `cowsay` (Virtual Environment demo package)
+
+### 🖥 Development Environment
+- Virtual Environment (venv)
+
+## 🚀 Repository Status
+
+This repository is continuously updated as I learn new Python concepts.More advanced topics, projects, coding challenges, machine learning libraries, and real-world implementations will be added regularly.
