@@ -303,25 +303,27 @@ This repository is continuously updated as I learn new Python concepts. More adv
 
 ---
 
-# 📁 Learning Files (Up to 13 July 2026)
+# 📁 Learning Files
 
-| File | Topics Covered |
-|------|----------------|
-| `3july2026.ipynb` | Python basics, variables, data types, casting, strings, booleans, operators, comments |
-| `4july2026.ipynb` | Lists, tuples, sets, dictionaries, control flow, loops, functions, lambda, recursion |
-| `6july2026.ipynb` | `range()`, arrays (lists), iterators, modules, `datetime` |
-| `7july2026.ipynb` | Math, JSON, RegEx, PIP, try/except |
-| `8july2026.ipynb` | String formatting, `None`, user input, virtual environment, OOP basics |
-| `9july2026.ipynb` | Class properties, methods, inheritance, polymorphism, encapsulation, inner classes |
-| `10july2026.ipynb` | File handling (read, write, append, create, delete) |
-| `13july2026numpy.ipynb` | NumPy fundamentals |
-| `modules.py` | Custom module with dictionary and `greeting()` function |
+| File                     | Topics Covered |
 
----
-
-# ➕ Additional Topics Covered in Practice Notebooks
-
-The following concepts are practiced in the notebooks above and extend the topics listed earlier in this README.
+| `3july2026.ipynb`        | Python basics, variables, data types, type casting, strings, booleans, operators, comments 
+| `4july2026.ipynb`        | Lists, tuples, sets, dictionaries, control flow, loops, functions, lambda, recursion 
+| `6july2026.ipynb`        | `range()`, arrays (lists), iterators, modules, `datetime` 
+| `7july2026.ipynb`        | Math module, JSON, Regular Expressions (RegEx), PIP, exception handling 
+| `8july2026.ipynb`        | String formatting, `None`, user input, virtual environment, OOP basics 
+| `9july2026.ipynb`        | Class properties, methods, inheritance, polymorphism, encapsulation, inner classes 
+| `10july2026.ipynb`       | File handling (read, write, append, create, delete) 
+| `13july2026numpy.ipynb`  | NumPy fundamentals, arrays, indexing, slicing, array attributes 
+| `14july2026NumpyRandom.ip| NumPy Random module, random numbers, distributions, random sampling 
+| `15july2026NumpyUFC.ip`  | Universal Functions (UFuncs), arithmetic operations, aggregation functions 
+| `16july2026NumpySemmation| NumPy summation, cumulative operations, statistical functions 
+| `17july2026pandas.ipynb` | Pandas introduction, Series, DataFrame, reading datasets, basic operations 
+| `20july2026pandas.ipynb` | Data selection, filtering, sorting, cleaning, handling missing values, grouping 
+| `21july2026Seaborn.ipynb`| Seaborn basics, styling, distribution plots, categorical plots 
+| `22july2026seaborn.ipynb`| Heatmaps, pair plots, regression plots, advanced Seaborn visualizations 
+| `23july2026Matplotlib.ipy| Matplotlib basics, line plots, bar charts, scatter plots, histograms 
+| `24july2026Matplotlib.ipy| Pie charts, subplots, figure customization, legends, saving plots 
 
 ## 🧱 Python Fundamentals (Extended)
 
